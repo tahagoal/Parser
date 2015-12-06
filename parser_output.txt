@@ -1,0 +1,45 @@
+Read statement found
+Factor found
+Term found
+SimpleExp found
+Comparisonop found
+Factor found
+Term found
+SimpleExp found
+Exp found
+Factor found
+Term found
+SimpleExp found
+Exp found
+Assignment statement found
+Factor found
+Mulop found
+Factor found
+Term found
+SimpleExp found
+Exp found
+Assignment statement found
+Factor found
+Term found
+addop found
+Factor found
+Term found
+SimpleExp found
+Exp found
+Assignment statement found
+Factor found
+Term found
+SimpleExp found
+Comparisonop found
+Factor found
+Term found
+SimpleExp found
+Exp found
+Repeat statement found
+Factor found
+Term found
+SimpleExp found
+Exp found
+Write statement found
+If statement found
+Program found
